@@ -5,9 +5,14 @@ Auto-Insurance-Claims Data Analysis using R, Flourish, and Datawrapper
 
 Link to Access Website - https://sites.google.com/view/project1-group9/introduction
 
-Datasets: https://www.iihs.org/topics/fatality-statistics/detail/state-by-state
+Datasets used for this project: 
+https://www.iihs.org/topics/fatality-statistics/detail/state-by-state
 https://www.bankrate.com/insurance/car/auto-insurance-statistics/#what-types-of-auto-insurance-claims-are-filed
 https://www.bankrate.com/insurance/car/auto-insurance-statistics/
+https://www.bankrate.com/insurance/car/uninsured-motorist-statistics/
+https://www.kaggle.com/code/buntyshah/insurance-fraud-claims-detection/data
+https://www.valuepenguin.com/how-gender-impacts-car-insurance-rates
+https://www.kaggle.com/datasets/shivamb/vehicle-claim-fraud-detection
 
 
 • Performed exploratory data analysis in R for a couple of Insurance Claims datasets using visualization tools and published a Google Site with embedded charts
