@@ -1,0 +1,5 @@
+﻿incident_severity,NUMBER_OF_RECORDS,sum,per
+Major Damage,276,1000,27.6
+Minor Damage,354,1000,35.4
+Total Loss,280,1000,28
+Trivial Damage,90,1000,9
